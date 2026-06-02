@@ -1,0 +1,201 @@
+﻿patient_id;age;gender;condition;medication;skin_type;last_visit_date;smoker;alcohol_use;BMI;occupation;allergies;comorbid_condition
+P0001;65;Male;Psoriasis;Methotrexate;Normal;2024-05-20;Yes;None;34.2;Farmer;Pollen;Asthma, Anxiety
+P0002;19;Male;Seborrheic Dermatitis;Ketoconazole;Normal;2024-02-17;No;None;22.0;Office Worker;Dust Mites, Pollen;Diabetes
+P0003;69;Male;Vitiligo;Corticosteroids;Combination;2024-01-04;No;None;39.0;Unemployed;Pollen;Asthma
+P0004;40;Female;Seborrheic Dermatitis;Ketoconazole;Sensitive;2024-06-25;No;Light;39.4;Accountant;Pollen;Hypertension, Diabetes
+P0005;54;Male;Melanoma;Ipilimumab;Sensitive;2024-04-08;No;Moderate;39.7;Retired;Pollen;Depression
+P0006;58;Male;Melanoma;Surgical Excision;Dry;2024-07-05;No;Light;33.3;Office Worker;Pollen;Asthma, Anxiety
+P0007;28;Female;Eczema;Tacrolimus;Dry;2024-08-24;No;Light;30.0;Office Worker;Pollen, Latex;None
+P0008;69;Female;Rosacea;Metronidazole;Dry;2024-06-10;Yes;Heavy;30.3;Lawyer;Pollen, Latex;Diabetes
+P0009;74;Female;Vitiligo;Ruxolitinib;Normal;2024-11-25;Yes;None;30.1;Student;Dust Mites, Pollen;Asthma, Anxiety
+P0010;32;Female;Seborrheic Dermatitis;Zinc Pyrithione;Sensitive;2024-03-11;No;Moderate;20.9;Nurse;Dust Mites, Pollen;Asthma, Anxiety
+P0011;42;Female;Psoriasis;Topical Corticosteroids;Oily;2024-11-01;Yes;Light;38.7;Office Worker;Pollen;Hypertension, Diabetes
+P0012;25;Female;Melanoma;Ipilimumab;Normal;2024-05-30;No;Heavy;37.2;Student;Latex;Hypertension, Diabetes
+P0013;71;Male;Psoriasis;Adalimumab;Normal;2024-11-23;No;None;39.0;Farmer;None;Asthma, Anxiety
+P0014;19;Female;Actinic Keratosis;Diclofenac;Dry;2024-02-27;Yes;None;30.3;Teacher;Pollen;Obesity
+P0015;26;Female;Psoriasis;Cyclosporine;Oily;2024-12-03;Yes;Light;31.1;Retired;Dust Mites;Hypothyroidism
+P0016;46;Female;Seborrheic Dermatitis;Zinc Pyrithione;Sensitive;2024-09-21;Yes;None;18.0;Farmer;Dust Mites;Asthma, Anxiety
+P0017;22;Male;Rosacea;Metronidazole;Normal;2024-12-28;Yes;None;24.9;Farmer;Dust Mites;Hypothyroidism
+P0018;52;Female;Vitiligo;Phototherapy;Normal;2024-03-08;No;Moderate;21.8;Teacher;Dust Mites, Pollen;Anxiety
+P0019;47;Male;Seborrheic Dermatitis;Ciclopirox;Sensitive;2024-01-28;No;None;36.9;Retired;Dust Mites;Diabetes
+P0020;26;Male;Alopecia Areata;Anthralin;Dry;2024-08-04;No;Moderate;19.2;Farmer;Pollen;None
+P0021;80;Male;Alopecia Areata;Minoxidil;Normal;2024-02-17;No;Light;37.0;Engineer;Latex;Depression
+P0022;34;Female;Acne;Doxycycline;Combination;2024-08-20;No;Moderate;35.1;Office Worker;Latex, Penicillin;Hypertension
+P0023;31;Male;Rosacea;Doxycycline;Dry;2024-01-30;Yes;Light;28.8;Farmer;Latex;None
+P0024;72;Male;Alopecia Areata;Minoxidil;Oily;2024-04-05;Yes;Moderate;26.6;Chef;Dust Mites;Asthma, Anxiety
+P0025;57;Female;Contact Dermatitis;Hydrocortisone;Oily;2024-02-11;No;None;23.4;Office Worker;Pollen, Latex;Diabetes
+P0026;26;Female;Melanoma;Surgical Excision;Combination;2024-12-09;No;Moderate;19.1;Doctor;Pollen;Asthma
+P0027;50;Male;Alopecia Areata;Corticosteroids;Dry;2024-05-15;No;Moderate;25.8;Nurse;Latex, Penicillin;Hypertension, Diabetes
+P0028;60;Female;Melanoma;Pembrolizumab;Sensitive;2024-10-10;No;None;20.1;Teacher;Latex;Hypothyroidism
+P0029;63;Male;Melanoma;Dabrafenib;Dry;2024-06-24;No;None;37.9;Engineer;Pollen;Depression
+P0030;18;Male;Melanoma;Pembrolizumab;Dry;2024-06-19;Yes;Light;33.4;Farmer;None;Asthma
+P0031;52;Female;Psoriasis;Cyclosporine;Oily;2024-01-19;No;Light;18.4;Unemployed;None;Anxiety
+P0032;60;Female;Rosacea;Azelaic Acid;Oily;2024-02-22;No;Light;31.5;Nurse;Dust Mites;Hypertension
+P0033;19;Female;Eczema;Emollients;Combination;2024-04-01;No;Moderate;35.7;Student;Latex;Asthma
+P0034;72;Male;Seborrheic Dermatitis;Ketoconazole;Normal;2024-08-28;No;Light;24.4;Retired;Dust Mites;None
+P0035;39;Male;Rosacea;Ivermectin;Dry;2024-05-22;No;Light;32.8;Farmer;Pollen, Latex;None
+P0036;29;Female;Psoriasis;Adalimumab;Sensitive;2024-10-24;Yes;Light;33.9;Unemployed;Dust Mites, Pollen;Asthma, Anxiety
+P0037;42;Male;Alopecia Areata;Minoxidil;Dry;2024-10-22;Yes;Light;29.2;Farmer;Dust Mites;Anxiety
+P0038;78;Female;Seborrheic Dermatitis;Ketoconazole;Oily;2024-12-06;No;Moderate;33.7;Student;Penicillin;Depression
+P0039;62;Male;Actinic Keratosis;Diclofenac;Normal;2024-05-31;No;Heavy;32.7;Nurse;Penicillin;Depression
+P0040;37;Male;Alopecia Areata;Minoxidil;Combination;2024-05-26;No;Light;24.8;Doctor;Latex, Penicillin;Diabetes
+P0041;68;Male;Alopecia Areata;Anthralin;Dry;2024-03-27;No;Light;25.0;Retired;Penicillin;Diabetes
+P0042;19;Male;Rosacea;Azelaic Acid;Combination;2024-01-24;No;Moderate;27.7;Office Worker;Dust Mites;Depression
+P0043;33;Male;Vitiligo;Ruxolitinib;Sensitive;2024-03-16;No;None;35.6;Lawyer;Latex, Penicillin;None
+P0044;76;Female;Alopecia Areata;Corticosteroids;Normal;2024-03-03;No;Light;39.7;Chef;Pollen, Latex;Obesity
+P0045;71;Female;Contact Dermatitis;Tacrolimus;Normal;2024-10-07;No;Light;23.3;Retired;Penicillin;Hypertension, Diabetes
+P0046;35;Male;Vitiligo;Phototherapy;Dry;2024-08-13;Yes;None;37.6;Teacher;Latex;Hypertension
+P0047;62;Male;Rosacea;Ivermectin;Sensitive;2024-03-19;No;None;28.0;Engineer;Dust Mites;Depression
+P0048;72;Female;Seborrheic Dermatitis;Ketoconazole;Combination;2024-10-21;Yes;None;34.5;Accountant;Dust Mites;Obesity
+P0049;45;Male;Rosacea;Doxycycline;Combination;2024-09-05;No;Light;26.6;Nurse;Latex, Penicillin;Hypertension
+P0050;76;Male;Contact Dermatitis;Hydrocortisone;Sensitive;2024-07-20;No;None;27.9;Engineer;Penicillin;Depression
+P0051;47;Female;Actinic Keratosis;Imiquimod;Combination;2024-06-16;Yes;Heavy;27.0;Teacher;Latex, Penicillin;None
+P0052;78;Male;Alopecia Areata;Minoxidil;Sensitive;2024-06-28;No;Light;34.5;Retired;Dust Mites;None
+P0053;33;Female;Contact Dermatitis;Betamethasone;Sensitive;2024-03-05;No;None;33.2;Unemployed;Latex;Asthma, Anxiety
+P0054;67;Female;Contact Dermatitis;Hydrocortisone;Sensitive;2024-03-24;No;Heavy;30.5;Accountant;Dust Mites, Pollen;Diabetes
+P0055;24;Female;Psoriasis;Cyclosporine;Oily;2024-12-22;No;Moderate;30.2;Engineer;Pollen, Latex;Hypertension, Diabetes
+P0056;22;Female;Seborrheic Dermatitis;Zinc Pyrithione;Sensitive;2024-09-16;No;Moderate;19.9;Unemployed;Latex, Penicillin;Hypertension
+P0057;64;Female;Seborrheic Dermatitis;Selenium Sulfide;Oily;2024-09-24;No;Light;28.4;Accountant;Penicillin;Anxiety
+P0058;35;Male;Rosacea;Metronidazole;Combination;2024-08-18;No;Light;25.1;Doctor;Pollen, Latex;Hypertension
+P0059;40;Female;Vitiligo;Phototherapy;Dry;2024-05-12;No;Moderate;23.7;Engineer;Dust Mites;Asthma
+P0060;49;Male;Rosacea;Ivermectin;Combination;2024-10-11;No;Light;35.3;Teacher;Penicillin;Diabetes
+P0061;37;Female;Seborrheic Dermatitis;Selenium Sulfide;Combination;2024-12-05;No;None;39.9;Farmer;Pollen, Latex;Anxiety
+P0062;37;Male;Vitiligo;Corticosteroids;Sensitive;2024-05-08;No;None;34.2;Lawyer;Latex;Diabetes
+P0063;35;Female;Rosacea;Ivermectin;Sensitive;2024-10-28;No;None;25.6;Student;None;Hypertension, Diabetes
+P0064;20;Female;Eczema;Dupilumab;Normal;2024-01-28;No;Moderate;19.8;Engineer;Penicillin;Obesity
+P0065;39;Male;Vitiligo;Ruxolitinib;Dry;2024-04-04;No;Light;36.0;Accountant;Latex, Penicillin;Asthma
+P0066;27;Female;Contact Dermatitis;Hydrocortisone;Sensitive;2024-03-17;No;None;34.7;Chef;Dust Mites;Hypertension, Diabetes
+P0067;76;Female;Seborrheic Dermatitis;Ciclopirox;Oily;2024-08-14;No;None;31.5;Chef;Pollen;Diabetes
+P0068;60;Male;Rosacea;Doxycycline;Normal;2024-02-11;Yes;None;17.6;Doctor;Latex, Penicillin;Hypothyroidism
+P0069;36;Female;Acne;Clindamycin;Combination;2024-12-27;Yes;None;23.5;Office Worker;Dust Mites;Depression
+P0070;59;Female;Psoriasis;Cyclosporine;Normal;2024-03-17;Yes;None;24.4;Lawyer;Penicillin;Obesity
+P0071;62;Female;Psoriasis;Topical Corticosteroids;Dry;2024-06-04;No;Light;19.3;Engineer;Dust Mites, Pollen;Anxiety
+P0072;19;Male;Contact Dermatitis;Calamine Lotion;Oily;2024-02-16;No;None;34.7;Student;None;Hypertension
+P0073;76;Male;Vitiligo;Ruxolitinib;Oily;2024-05-22;No;Moderate;39.3;Doctor;Pollen, Latex;Depression
+P0074;60;Male;Actinic Keratosis;Cryotherapy;Dry;2024-02-23;No;Light;32.4;Accountant;None;Obesity
+P0075;34;Male;Psoriasis;Adalimumab;Combination;2024-06-14;No;Moderate;17.5;Farmer;Latex, Penicillin;Depression
+P0076;51;Female;Acne;Clindamycin;Combination;2024-07-04;No;None;29.9;Student;Latex, Penicillin;Obesity
+P0077;80;Male;Psoriasis;Methotrexate;Normal;2024-11-18;No;None;26.7;Retired;Pollen;Obesity
+P0078;49;Female;Psoriasis;Cyclosporine;Combination;2024-05-29;No;Heavy;23.0;Farmer;Latex;Depression
+P0079;73;Female;Rosacea;Azelaic Acid;Combination;2024-02-05;No;Moderate;23.5;Engineer;Penicillin;Hypothyroidism
+P0080;73;Female;Contact Dermatitis;Tacrolimus;Oily;2024-03-17;No;None;34.7;Accountant;Latex, Penicillin;Anxiety
+P0081;54;Male;Rosacea;Azelaic Acid;Combination;2024-07-15;Yes;Moderate;33.4;Accountant;Dust Mites, Pollen;Hypertension
+P0082;26;Female;Vitiligo;Tacrolimus;Sensitive;2024-09-14;No;Light;29.3;Doctor;None;Hypertension
+P0083;22;Female;Seborrheic Dermatitis;Selenium Sulfide;Dry;2024-08-28;No;None;19.3;Unemployed;Dust Mites, Pollen;Anxiety
+P0084;57;Male;Vitiligo;Tacrolimus;Dry;2024-02-05;No;Moderate;27.3;Teacher;Pollen;Obesity
+P0085;75;Male;Eczema;Dupilumab;Dry;2024-01-15;No;None;25.9;Nurse;Dust Mites;Hypertension, Diabetes
+P0086;28;Male;Seborrheic Dermatitis;Selenium Sulfide;Oily;2024-03-30;No;Light;22.9;Chef;Latex;Diabetes
+P0087;47;Male;Vitiligo;Corticosteroids;Combination;2024-05-10;No;Light;21.1;Doctor;Pollen, Latex;Asthma, Anxiety
+P0088;62;Female;Melanoma;Surgical Excision;Dry;2024-05-08;Yes;None;28.4;Retired;Dust Mites, Pollen;Asthma, Anxiety
+P0089;62;Male;Actinic Keratosis;Cryotherapy;Combination;2024-05-31;Yes;Light;32.9;Lawyer;None;Asthma, Anxiety
+P0090;67;Female;Vitiligo;Corticosteroids;Normal;2024-04-27;No;Light;32.7;Lawyer;Latex;Asthma
+P0091;68;Male;Acne;Isotretinoin;Oily;2024-08-13;No;None;38.0;Unemployed;Dust Mites, Pollen;Hypertension
+P0092;68;Female;Rosacea;Azelaic Acid;Oily;2024-10-03;No;None;21.2;Doctor;Penicillin;Anxiety
+P0093;79;Male;Psoriasis;Topical Corticosteroids;Normal;2024-02-08;No;Moderate;39.5;Farmer;Pollen, Latex;Asthma
+P0094;34;Male;Seborrheic Dermatitis;Ketoconazole;Combination;2024-10-01;No;Moderate;23.4;Accountant;Pollen, Latex;Asthma
+P0095;19;Female;Rosacea;Ivermectin;Oily;2024-11-13;Yes;None;36.0;Lawyer;Penicillin;Depression
+P0096;20;Female;Psoriasis;Cyclosporine;Combination;2024-01-20;Yes;None;29.6;Accountant;Latex, Penicillin;Anxiety
+P0097;55;Female;Alopecia Areata;Anthralin;Sensitive;2024-03-20;No;Light;38.6;Student;None;Anxiety
+P0098;46;Female;Rosacea;Ivermectin;Sensitive;2024-04-30;No;None;37.8;Office Worker;Pollen, Latex;None
+P0099;30;Female;Seborrheic Dermatitis;Zinc Pyrithione;Sensitive;2024-03-03;No;Light;30.9;Engineer;None;Anxiety
+P0100;68;Male;Rosacea;Azelaic Acid;Sensitive;2024-10-16;No;Light;30.7;Retired;Pollen, Latex;Hypertension
+P0101;35;Male;Contact Dermatitis;Hydrocortisone;Oily;2024-03-15;Yes;None;32.4;Engineer;Latex;None
+P0102;55;Male;Actinic Keratosis;Imiquimod;Normal;2024-06-14;Yes;None;27.0;Teacher;Pollen;Obesity
+P0103;50;Male;Vitiligo;Corticosteroids;Combination;2024-10-30;No;Heavy;18.5;Office Worker;Penicillin;Obesity
+P0104;48;Female;Acne;Benzoyl Peroxide;Sensitive;2024-07-24;No;Heavy;19.2;Teacher;Pollen, Latex;Asthma, Anxiety
+P0105;26;Female;Eczema;Hydrocortisone;Combination;2024-05-20;No;Light;27.7;Chef;Dust Mites, Pollen;Asthma
+P0106;45;Male;Psoriasis;Cyclosporine;Combination;2024-08-19;No;Light;26.9;Teacher;Pollen, Latex;Depression
+P0107;41;Female;Actinic Keratosis;Cryotherapy;Sensitive;2024-03-19;Yes;None;27.2;Lawyer;Pollen, Latex;Hypertension
+P0108;55;Female;Alopecia Areata;Minoxidil;Sensitive;2024-10-14;No;Moderate;38.7;Accountant;None;Hypothyroidism
+P0109;40;Male;Contact Dermatitis;Calamine Lotion;Normal;2024-02-23;No;None;19.9;Farmer;Pollen, Latex;Asthma
+P0110;69;Male;Melanoma;Dabrafenib;Oily;2024-08-07;No;Moderate;23.5;Nurse;Penicillin;Hypothyroidism
+P0111;18;Male;Actinic Keratosis;Cryotherapy;Oily;2024-04-02;No;None;34.2;Engineer;Pollen;Hypertension, Diabetes
+P0112;44;Female;Rosacea;Ivermectin;Normal;2024-08-20;No;Moderate;35.0;Chef;Pollen;None
+P0113;66;Male;Eczema;Tacrolimus;Sensitive;2024-11-12;Yes;Light;28.4;Doctor;Dust Mites, Pollen;Hypothyroidism
+P0114;40;Male;Rosacea;Metronidazole;Dry;2024-08-08;No;Light;29.4;Student;None;Diabetes
+P0115;18;Female;Seborrheic Dermatitis;Ketoconazole;Normal;2024-04-14;No;Moderate;24.0;Teacher;None;Obesity
+P0116;26;Male;Seborrheic Dermatitis;Selenium Sulfide;Oily;2024-07-13;No;Light;25.5;Accountant;None;Depression
+P0117;76;Female;Acne;Doxycycline;Oily;2024-02-09;No;Light;31.9;Student;Pollen;Depression
+P0118;28;Female;Acne;Isotretinoin;Dry;2024-11-12;Yes;Moderate;23.0;Chef;Dust Mites, Pollen;Hypertension, Diabetes
+P0119;73;Female;Psoriasis;Topical Corticosteroids;Normal;2024-06-07;No;None;29.0;Teacher;Dust Mites;Anxiety
+P0120;33;Male;Actinic Keratosis;Imiquimod;Dry;2024-02-22;Yes;Light;34.6;Office Worker;Pollen;Hypertension
+P0121;66;Female;Vitiligo;Ruxolitinib;Oily;2024-10-15;No;Heavy;24.8;Office Worker;Pollen, Latex;Hypertension
+P0122;48;Female;Vitiligo;Tacrolimus;Dry;2024-08-14;No;None;19.2;Doctor;Latex, Penicillin;None
+P0123;71;Male;Acne;Isotretinoin;Sensitive;2024-05-26;No;Light;27.9;Farmer;None;Obesity
+P0124;38;Female;Contact Dermatitis;Betamethasone;Oily;2024-11-05;Yes;None;19.8;Unemployed;Pollen;Hypertension, Diabetes
+P0125;33;Female;Eczema;Hydrocortisone;Combination;2024-12-28;No;Light;25.7;Student;Dust Mites, Pollen;Depression
+P0126;68;Female;Actinic Keratosis;Fluorouracil;Sensitive;2024-11-19;No;Light;26.2;Student;Latex;Anxiety
+P0127;76;Female;Psoriasis;Cyclosporine;Combination;2024-06-28;Yes;Moderate;19.4;Farmer;Dust Mites, Pollen;Anxiety
+P0128;59;Female;Eczema;Hydrocortisone;Oily;2024-12-09;No;None;21.6;Retired;Pollen, Latex;Obesity
+P0129;26;Male;Rosacea;Azelaic Acid;Dry;2024-03-20;No;None;34.8;Lawyer;None;Anxiety
+P0130;56;Male;Contact Dermatitis;Betamethasone;Normal;2024-07-11;Yes;Light;31.6;Nurse;Latex, Penicillin;None
+P0131;61;Female;Seborrheic Dermatitis;Zinc Pyrithione;Oily;2024-05-01;Yes;Moderate;27.6;Farmer;Dust Mites;Hypothyroidism
+P0132;41;Female;Vitiligo;Phototherapy;Combination;2024-12-13;No;Moderate;28.8;Accountant;Latex;Diabetes
+P0133;73;Male;Contact Dermatitis;Betamethasone;Combination;2024-05-08;No;Light;19.8;Farmer;Pollen;Hypothyroidism
+P0134;35;Male;Psoriasis;Cyclosporine;Combination;2024-08-18;Yes;Heavy;35.9;Unemployed;None;Depression
+P0135;50;Male;Acne;Doxycycline;Combination;2024-07-10;No;None;18.1;Teacher;Pollen, Latex;Hypertension
+P0136;36;Male;Eczema;Hydrocortisone;Combination;2024-08-29;No;None;19.3;Student;Dust Mites;Hypertension
+P0137;25;Male;Alopecia Areata;Anthralin;Dry;2024-05-27;Yes;None;31.9;Chef;Latex, Penicillin;Asthma
+P0138;56;Male;Psoriasis;Topical Corticosteroids;Oily;2024-10-01;No;Moderate;24.1;Engineer;Pollen, Latex;Diabetes
+P0139;29;Male;Contact Dermatitis;Tacrolimus;Oily;2024-12-06;No;None;29.3;Farmer;None;Depression
+P0140;58;Female;Vitiligo;Tacrolimus;Dry;2024-07-17;No;None;19.0;Retired;Pollen;Asthma, Anxiety
+P0141;20;Female;Actinic Keratosis;Imiquimod;Normal;2024-06-29;No;Light;39.6;Doctor;Latex;Hypertension
+P0142;20;Male;Psoriasis;Topical Corticosteroids;Sensitive;2024-05-30;No;Moderate;24.6;Student;Dust Mites, Pollen;Hypertension, Diabetes
+P0143;20;Male;Vitiligo;Corticosteroids;Dry;2024-11-27;No;Moderate;37.0;Unemployed;Penicillin;Asthma
+P0144;74;Female;Actinic Keratosis;Diclofenac;Combination;2024-07-23;No;None;33.1;Unemployed;Penicillin;Asthma
+P0145;45;Male;Seborrheic Dermatitis;Ketoconazole;Oily;2024-11-04;Yes;None;24.9;Student;Penicillin;Obesity
+P0146;28;Female;Contact Dermatitis;Tacrolimus;Dry;2024-12-19;No;Moderate;38.0;Chef;Dust Mites, Pollen;Hypothyroidism
+P0147;60;Female;Acne;Benzoyl Peroxide;Dry;2024-11-22;No;Moderate;21.1;Engineer;Latex;Asthma, Anxiety
+P0148;26;Male;Vitiligo;Tacrolimus;Dry;2024-02-04;No;Heavy;18.2;Nurse;Latex, Penicillin;Anxiety
+P0149;66;Male;Actinic Keratosis;Diclofenac;Oily;2024-02-09;No;None;23.8;Teacher;None;Hypertension
+P0150;76;Male;Vitiligo;Ruxolitinib;Dry;2024-10-14;No;Moderate;22.3;Chef;Penicillin;Obesity
+P0151;26;Female;Rosacea;Metronidazole;Normal;2024-02-07;No;Light;19.5;Office Worker;Pollen, Latex;Anxiety
+P0152;75;Male;Psoriasis;Adalimumab;Normal;2024-06-02;No;Light;20.2;Retired;Latex;Diabetes
+P0153;41;Female;Vitiligo;Tacrolimus;Combination;2024-10-10;No;Light;31.3;Teacher;Pollen;Hypothyroidism
+P0154;51;Female;Seborrheic Dermatitis;Ciclopirox;Oily;2024-07-29;Yes;Heavy;32.0;Doctor;Latex, Penicillin;Hypertension, Diabetes
+P0155;74;Male;Actinic Keratosis;Imiquimod;Normal;2024-10-09;No;Heavy;18.7;Teacher;Latex;Hypothyroidism
+P0156;38;Male;Eczema;Tacrolimus;Dry;2024-12-29;No;Light;23.9;Teacher;Penicillin;Diabetes
+P0157;26;Female;Alopecia Areata;Baricitinib;Oily;2024-11-16;No;Light;21.3;Chef;Latex;Hypertension
+P0158;71;Male;Contact Dermatitis;Calamine Lotion;Sensitive;2024-10-15;Yes;Heavy;34.8;Student;Dust Mites;Asthma, Anxiety
+P0159;49;Female;Seborrheic Dermatitis;Ketoconazole;Dry;2024-11-17;No;Moderate;32.9;Student;Latex, Penicillin;Asthma
+P0160;46;Female;Acne;Clindamycin;Combination;2024-07-31;Yes;Light;24.5;Lawyer;Pollen, Latex;Anxiety
+P0161;66;Male;Seborrheic Dermatitis;Selenium Sulfide;Dry;2024-07-08;Yes;None;27.6;Nurse;Pollen;None
+P0162;73;Female;Melanoma;Surgical Excision;Normal;2024-11-11;No;Heavy;35.8;Chef;Pollen, Latex;Diabetes
+P0163;50;Female;Eczema;Emollients;Dry;2024-08-27;No;None;26.3;Doctor;Dust Mites;Diabetes
+P0164;21;Female;Contact Dermatitis;Calamine Lotion;Combination;2024-01-26;No;Moderate;32.6;Student;None;Asthma
+P0165;74;Female;Seborrheic Dermatitis;Selenium Sulfide;Combination;2024-05-15;No;Light;30.3;Retired;Pollen, Latex;Hypertension, Diabetes
+P0166;42;Female;Melanoma;Pembrolizumab;Oily;2024-09-15;Yes;Heavy;32.8;Teacher;Latex;Asthma
+P0167;68;Female;Seborrheic Dermatitis;Zinc Pyrithione;Normal;2024-06-22;Yes;Light;28.8;Engineer;None;Hypertension
+P0168;51;Male;Actinic Keratosis;Diclofenac;Oily;2024-08-21;No;None;38.5;Unemployed;Latex;Depression
+P0169;55;Female;Contact Dermatitis;Calamine Lotion;Oily;2024-06-21;Yes;Moderate;25.8;Office Worker;Pollen;Depression
+P0170;68;Male;Contact Dermatitis;Calamine Lotion;Oily;2024-12-18;No;Heavy;35.1;Chef;Dust Mites;None
+P0171;28;Female;Contact Dermatitis;Tacrolimus;Normal;2024-09-25;No;None;30.4;Lawyer;Pollen;Diabetes
+P0172;38;Male;Acne;Doxycycline;Combination;2024-08-02;No;Light;34.9;Doctor;None;Hypertension
+P0173;53;Female;Alopecia Areata;Corticosteroids;Oily;2024-06-15;No;Heavy;27.8;Farmer;Pollen, Latex;Hypertension, Diabetes
+P0174;57;Male;Actinic Keratosis;Cryotherapy;Normal;2024-09-04;Yes;None;38.7;Student;Penicillin;Diabetes
+P0175;48;Female;Vitiligo;Corticosteroids;Dry;2024-06-27;Yes;Light;26.0;Accountant;Pollen, Latex;Hypertension
+P0176;36;Male;Melanoma;Pembrolizumab;Dry;2024-12-31;No;Light;34.3;Retired;Dust Mites;Hypertension, Diabetes
+P0177;26;Male;Melanoma;Ipilimumab;Normal;2024-02-25;Yes;Heavy;22.6;Retired;None;Asthma
+P0178;63;Male;Seborrheic Dermatitis;Zinc Pyrithione;Normal;2024-08-29;Yes;Light;38.4;Accountant;Latex, Penicillin;Obesity
+P0179;38;Male;Rosacea;Doxycycline;Sensitive;2024-05-26;No;None;34.1;Engineer;Latex;Depression
+P0180;71;Female;Eczema;Hydrocortisone;Normal;2024-07-22;No;Heavy;38.3;Engineer;None;Hypothyroidism
+P0181;77;Female;Contact Dermatitis;Hydrocortisone;Combination;2024-06-20;No;Light;28.6;Nurse;Latex, Penicillin;Hypothyroidism
+P0182;39;Female;Rosacea;Metronidazole;Dry;2024-03-24;No;None;25.1;Student;Dust Mites;Hypertension
+P0183;70;Female;Contact Dermatitis;Tacrolimus;Sensitive;2024-08-06;No;None;39.6;Doctor;Pollen, Latex;Diabetes
+P0184;42;Female;Acne;Isotretinoin;Dry;2024-04-30;No;None;33.8;Engineer;Penicillin;Anxiety
+P0185;60;Female;Rosacea;Metronidazole;Dry;2024-03-01;Yes;Light;38.3;Lawyer;Penicillin;Asthma
+P0186;57;Male;Melanoma;Ipilimumab;Normal;2024-04-23;No;Light;39.7;Unemployed;Dust Mites, Pollen;Hypertension, Diabetes
+P0187;66;Male;Vitiligo;Phototherapy;Oily;2024-05-06;No;Moderate;19.3;Chef;Pollen;None
+P0188;54;Male;Alopecia Areata;Corticosteroids;Normal;2024-10-01;No;Light;20.1;Retired;Latex, Penicillin;Asthma
+P0189;69;Female;Alopecia Areata;Anthralin;Normal;2024-01-29;No;Light;18.8;Doctor;Penicillin;None
+P0190;70;Male;Seborrheic Dermatitis;Zinc Pyrithione;Oily;2024-01-02;Yes;Light;33.3;Farmer;None;Asthma
+P0191;36;Male;Vitiligo;Tacrolimus;Normal;2024-07-28;No;Heavy;32.0;Accountant;Pollen, Latex;Depression
+P0192;42;Male;Vitiligo;Ruxolitinib;Dry;2024-02-11;Yes;Heavy;26.3;Nurse;Dust Mites;None
+P0193;47;Female;Acne;Isotretinoin;Oily;2024-12-10;No;None;27.9;Nurse;Penicillin;Diabetes
+P0194;69;Female;Psoriasis;Methotrexate;Oily;2024-12-04;No;Moderate;17.9;Retired;Pollen;Asthma
+P0195;46;Male;Contact Dermatitis;Hydrocortisone;Normal;2024-11-02;No;Light;22.8;Retired;None;Hypertension
+P0196;32;Female;Alopecia Areata;Baricitinib;Oily;2024-10-21;No;Light;24.7;Student;Latex;Hypertension, Diabetes
+P0197;37;Male;Rosacea;Ivermectin;Oily;2024-05-20;No;Moderate;38.0;Office Worker;Dust Mites, Pollen;Hypertension, Diabetes
+P0198;80;Female;Vitiligo;Tacrolimus;Oily;2024-06-25;No;Light;20.9;Accountant;Latex;Hypertension, Diabetes
+P0199;72;Female;Vitiligo;Phototherapy;Normal;2024-04-25;No;Heavy;30.2;Accountant;Latex;Depression
+P0200;31;Male;Rosacea;Doxycycline;Combination;2024-06-18;No;None;33.8;Retired;None;Hypothyroidism
