@@ -1,20 +1,19 @@
 import pandas as pd
-import sqlite3
 import re
+import sqlite3
 from typing import Annotated, List
 
 from dotenv import load_dotenv
-load_dotenv()
-
-from haystack import component
-from haystack import Pipeline
-from haystack.components.builders import ChatPromptBuilder
-from haystack.dataclasses import ChatMessage, Document
-from haystack.tools import tool, ComponentTool
-from haystack.components.websearch import SerperDevWebSearch
-from haystack.components.generators.utils import print_streaming_chunk
+from haystack import Pipeline, component
 from haystack.components.agents import Agent
+from haystack.components.builders import ChatPromptBuilder
 from haystack.components.generators.chat import OpenAIChatGenerator
+from haystack.components.generators.utils import print_streaming_chunk
+from haystack.components.websearch import SerperDevWebSearch
+from haystack.dataclasses import ChatMessage, Document
+from haystack.tools import ComponentTool, tool
+
+load_dotenv()
 
 
 def doc_to_string(documents) -> str:
